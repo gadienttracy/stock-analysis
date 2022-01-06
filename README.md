@@ -1,4 +1,4 @@
-# Ticker Analysis with Excel
+# Ticker Analysis with Excel VBA
 
 ## Overview of Project
 The purpose of this study is to refactor the code used to evaluate stocks from two years in order to create a faster query.  The output is the Total Daily Volume and the Percent Return for 11 ticker (stock) values for one year (2017 or 2018).

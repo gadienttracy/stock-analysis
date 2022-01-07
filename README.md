@@ -13,13 +13,6 @@ There were only two stocks with positive returns for the year 2018, ENPH and RUN
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/91269696/148456424-90f2c6d6-d435-4c06-97a2-ce54d9e95bb7.PNG)
 
-The largest factor in reducing the time to run the script was the addition of the tickerIndex which allowed the script to count each Row and add it to the tickerIndex rather than calculating the value of the tickerIndex at the end using the starting and ending price.
-
-![original code](https://user-images.githubusercontent.com/91269696/148458542-7aab62a5-d39f-4579-a204-fa727fdcf7be.PNG)
-* *original code* *
-
-![Refactored](https://user-images.githubusercontent.com/91269696/148458567-0d53fea1-f336-4743-83c9-e46f820f2b41.PNG)
-* *refactored code* *
 
 ## Summary
 **What are the advantages or disadvantages of refactoring code?**
